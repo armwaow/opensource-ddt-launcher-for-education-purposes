@@ -12,3 +12,6 @@ Sorumluluk Reddi: Bu proje tamamen eğitim ve araştırma amaçlıdır. Bu yazı
 Telif Hakları ve İçerik: Bu depo (repository), oyunun asıl telifli dosyalarını (SWF, grafik assetleri vb.) ve Flash Player dosyalarını içermez. Kullanıcılar, gerekli eklentileri ve oyun dosyalarını yasal yollardan kendileri temin etmelidir.
 
 Kullanım Amacı: Bu istemci, gömülü sistemler (Linux/Windows) üzerinde modern web teknolojilerinin (Electron) eski içeriklerle uyumluluğunu test etmek için geliştirilmiştir.
+
+<img width="1011" height="757" alt="image" src="https://github.com/user-attachments/assets/19b67f4d-9fac-49ab-84b9-da16ea160d40" />
+
