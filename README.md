@@ -9,7 +9,7 @@ Purpose: This client was developed to test the compatibility of modern web techn
 Yasal Uyarı / Disclaimer
 Sorumluluk Reddi: Bu proje tamamen eğitim ve araştırma amaçlıdır. Bu yazılımın kullanımından doğabilecek her türlü teknik sorun veya hesap güvenliği riskinden kullanıcı sorumludur; geliştirici hiçbir sorumluluk kabul etmez.
 
-Telif Hakları ve İçerik: Bu depo (repository), oyunun asıl telifli dosyalarını (SWF, grafik assetleri vb.) ve Flash Player dosyalarını içermez. Kullanıcılar, gerekli eklentileri ve oyun dosyalarını yasal yollardan kendileri temin etmelidir.
+Telif Hakları ve İçerik: Paylaşılan source, Flash Player dosyalarını-eklentilerini içermez. Kullanıcılar, gerekli eklentileri yasal yollardan kendileri temin etmelidir.
 
 Kullanım Amacı: Bu istemci, gömülü sistemler (Linux/Windows) üzerinde modern web teknolojilerinin (Electron) eski içeriklerle uyumluluğunu test etmek için geliştirilmiştir.
 
