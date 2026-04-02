@@ -6,7 +6,7 @@ Legal Disclaimer (English)
 
 Non-Responsibility: This project is strictly for educational and research purposes. The developer is not responsible for any technical issues or account security risks; use at your own risk.
 
-Copyrighted Content: This repository does not include Flash Player binaries. Users must provide their own legally obtained plugins.
+Copyrighted Content: Source does not include Flash Player binaries. Users must provide their own legally obtained plugins.
 
 Purpose: This client was developed to test the compatibility of modern web technologies (Electron) with legacy content on embedded Linux and Windows environments.
 
