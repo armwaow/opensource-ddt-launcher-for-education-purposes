@@ -1,4 +1,4 @@
-# opensource-ddt-launcher-for-education-purposes
+# opensource-ddt-launcher-for-educational-purposes
 A high-performance, cross-platform (Windows &amp; Linux) Flash client for educational and research purposes
 Legal Disclaimer (English)
 Non-Responsibility: This project is strictly for educational and research purposes. The developer is not responsible for any technical issues or account security risks; use at your own risk.
